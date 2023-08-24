@@ -5,3 +5,9 @@
       python p2.py
 # Command to Run p3.py file
       python p3.py
+# Command to Run p4.py file
+      python p4.py
+# Command to Run p5.py file
+      python p5.py
+# Command to Run p6.py file
+      python p6.py
